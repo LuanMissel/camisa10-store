@@ -22,5 +22,5 @@ Mini loja virtual com catálogo de camisas de futebol feita em HTML5.
 
 ---
 
-Feito por Luan Micel ✌️  
+Feito por Luan Missel ✌️  
 [LinkedIn](https://www.linkedin.com/in/luanmissel) • [GitHub](https://github.com/LuanMissel)
